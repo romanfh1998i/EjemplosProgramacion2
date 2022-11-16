@@ -1,4 +1,4 @@
-namespace Tarrea2
+namespace Tarea3
 {
     internal static class Program
     {
