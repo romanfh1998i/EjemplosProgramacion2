@@ -74,10 +74,7 @@ namespace Tarrea2
 
     public class Usuario
     {
-        public string ID { get; set; }
-        public string nombre { get; set; }
-        public string Apellido { get; set; }
-        public string nacionalidad { get; set; }
+     
 
     }
 }
